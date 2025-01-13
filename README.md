@@ -1,4 +1,4 @@
-# Cryptowatch
+# Cryptowatch - https://crypto-watch-mu.vercel.app/
 
 **Cryptowatch** is a modern cryptocurrency tracking application built with **ReactJS** and powered by the **CoinGecko API**. It provides real-time insights into cryptocurrency trends, helping users stay updated with the latest market data. From tracking the top cryptocurrencies to searching for detailed information about specific tokens, Cryptowatch offers an intuitive and sleek user experience.
 
